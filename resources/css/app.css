@@ -1,0 +1,14 @@
+.head{
+    background-color:red;
+    color:white;
+    height:100px;
+    width:100%;
+    text-align:center;
+}
+.td{
+    border:1px solid #000;
+    padding:8px;
+}
+.frm{
+    padding:10px;
+}
